@@ -1,11 +1,11 @@
 {
-    "fulfillmentMessages": [
-        {
-            "text": {
-                "text": [
-                    "a"
-                ]
-            }
-        }
-    ]
+  "fulfillmentMessages": [
+    {
+      "text": {
+        "text": [
+          "Welcome to Vehicle maintainence bot!I can make an a new service request or check service details. What can I do for you?"
+        ]
+      }
+    }],
+  "outputContexts": []
 }
